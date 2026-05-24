@@ -1,7 +1,7 @@
 # Allo Inventory Reservation System
 
 ## ■ Live Demo
-■ [Click here to run live](http://localhost:8000/allo_inventory.html)
+■ [Click here to run live](https://jothir2022-lgtm.github.io/demo_link/)
 
 A race-condition-safe inventory reservation system built with Next.js, Prisma, PostgreSQL, and Redis.
 ---
