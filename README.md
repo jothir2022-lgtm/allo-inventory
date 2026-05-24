@@ -2,8 +2,6 @@
 
 A race-condition-safe inventory reservation system built with Next.js, Prisma, PostgreSQL, and Redis.
 
----
-
 # 🌐 Project Demo
 
 Local HTML File Path:
@@ -11,6 +9,7 @@ Local HTML File Path:
 ```text
 file:///C:/Users/jothi/OneDrive/Desktop/allo-inventory/allo_inventory.html
 
+---
 # 🚀 Local Setup
 
 ## Clone the repository
