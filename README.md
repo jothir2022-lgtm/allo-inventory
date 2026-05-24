@@ -40,7 +40,7 @@ npm run dev
 Application runs on:
 
 ```text
-■ [open](https://jothir2022-lgtm.github.io/demo_link/)
+https://jothir2022-lgtm.github.io/demo_link/
 ```
 
 ---
