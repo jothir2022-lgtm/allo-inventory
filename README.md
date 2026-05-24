@@ -4,6 +4,13 @@ A race-condition-safe inventory reservation system built with Next.js, Prisma, P
 
 ---
 
+# 🌐 Project Demo
+
+Local HTML File Path:
+
+```text
+file:///C:/Users/jothi/OneDrive/Desktop/allo-inventory/allo_inventory.html
+
 # 🚀 Local Setup
 
 ## Clone the repository
