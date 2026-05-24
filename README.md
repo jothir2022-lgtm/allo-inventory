@@ -1,5 +1,8 @@
 # Allo Inventory Reservation System
 
+## ■ Live Demo
+■ [Click here to run live](file:///C:/Users/jothi/OneDrive/Desktop/allo-inventory/allo_inventory.html)
+
 A race-condition-safe inventory reservation system built with Next.js, Prisma, PostgreSQL, and Redis.
 ---
 # 🚀 Local Setup
