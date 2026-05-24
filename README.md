@@ -10,7 +10,7 @@ A race-condition-safe inventory reservation system built with Next.js, Prisma, P
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/allo-inventory
+git clone https://github.com/jothi2022-lgtm/allo-inventory
 cd allo-inventory
 npm install
 ```
